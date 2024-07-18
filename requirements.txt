@@ -1,0 +1,13 @@
+langchain
+IPython
+openai
+python-dotenv
+requests
+chroma
+chromadb
+tiktoken
+scipy
+gradio
+whisper
+unstructured
+unstructured[local-inference]
